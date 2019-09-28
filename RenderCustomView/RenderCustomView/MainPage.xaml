@@ -3,14 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:RenderCustomView.SharedViews;assembly=RenderCustomView"
              mc:Ignorable="d"
              x:Class="RenderCustomView.MainPage">
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+    <StackLayout Orientation="Vertical">
+        <local:CustomView Name="Custom View 01" VerticalOptions="CenterAndExpand" BackgroundColor="Aqua"/>
+        <local:CustomView Name="Custom View 02" VerticalOptions="CenterAndExpand" BackgroundColor="CornflowerBlue"/>
+        <local:CustomView Name="Custom View 03" VerticalOptions="CenterAndExpand" BackgroundColor="DeepSkyBlue"/>
     </StackLayout>
 
 </ContentPage>

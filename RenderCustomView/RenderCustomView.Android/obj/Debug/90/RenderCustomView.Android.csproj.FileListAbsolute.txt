@@ -992,3 +992,4 @@ C:\Forms\Test_2\Test\RenderCustomView\RenderCustomView.Android\obj\Debug\90\stam
 C:\Forms\Test_2\Test\RenderCustomView\RenderCustomView.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Forms\Test_2\Test\RenderCustomView\RenderCustomView.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Forms\Test_2\Test\RenderCustomView\RenderCustomView.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Forms\Test_2\Test\RenderCustomView\RenderCustomView.Android\bin\Debug\RenderCustomView.dll.mdb
