@@ -1,0 +1,12 @@
+C:\Xamarin_Forms\RenderCustomView\RenderCustomView\RenderCustomView\RenderCustomView\bin\Debug\netstandard2.0\RenderCustomView.deps.json
+C:\Xamarin_Forms\RenderCustomView\RenderCustomView\RenderCustomView\RenderCustomView\bin\Debug\netstandard2.0\RenderCustomView.dll
+C:\Xamarin_Forms\RenderCustomView\RenderCustomView\RenderCustomView\RenderCustomView\bin\Debug\netstandard2.0\RenderCustomView.pdb
+C:\Xamarin_Forms\RenderCustomView\RenderCustomView\RenderCustomView\RenderCustomView\obj\Debug\netstandard2.0\RenderCustomView.csprojAssemblyReference.cache
+C:\Xamarin_Forms\RenderCustomView\RenderCustomView\RenderCustomView\RenderCustomView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin_Forms\RenderCustomView\RenderCustomView\RenderCustomView\RenderCustomView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin_Forms\RenderCustomView\RenderCustomView\RenderCustomView\RenderCustomView\obj\Debug\netstandard2.0\RenderCustomView.csproj.CoreCompileInputs.cache
+C:\Xamarin_Forms\RenderCustomView\RenderCustomView\RenderCustomView\RenderCustomView\obj\Debug\netstandard2.0\RenderCustomView.AssemblyInfoInputs.cache
+C:\Xamarin_Forms\RenderCustomView\RenderCustomView\RenderCustomView\RenderCustomView\obj\Debug\netstandard2.0\RenderCustomView.AssemblyInfo.cs
+C:\Xamarin_Forms\RenderCustomView\RenderCustomView\RenderCustomView\RenderCustomView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin_Forms\RenderCustomView\RenderCustomView\RenderCustomView\RenderCustomView\obj\Debug\netstandard2.0\RenderCustomView.dll
+C:\Xamarin_Forms\RenderCustomView\RenderCustomView\RenderCustomView\RenderCustomView\obj\Debug\netstandard2.0\RenderCustomView.pdb
