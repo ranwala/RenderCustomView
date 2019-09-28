@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.Android\\RenderCustomView.Android.csproj": {}
+    "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView.Android\\RenderCustomView.Android.csproj": {}
   },
   "projects": {
-    "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.Android\\RenderCustomView.Android.csproj": {
+    "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView.Android\\RenderCustomView.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.Android\\RenderCustomView.Android.csproj",
+        "projectUniqueName": "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView.Android\\RenderCustomView.Android.csproj",
         "projectName": "RenderCustomView.Android",
-        "projectPath": "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.Android\\RenderCustomView.Android.csproj",
+        "projectPath": "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView.Android\\RenderCustomView.Android.csproj",
         "packagesPath": "C:\\Users\\chandu\\.nuget\\packages\\",
-        "outputPath": "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.Android\\obj\\",
+        "outputPath": "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -33,8 +33,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj": {
-                "projectPath": "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj"
+              "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj": {
+                "projectPath": "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj": {
+    "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj",
+        "projectUniqueName": "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj",
         "projectName": "RenderCustomView",
-        "projectPath": "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj",
+        "projectPath": "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj",
         "packagesPath": "C:\\Users\\chandu\\.nuget\\packages\\",
-        "outputPath": "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView\\obj\\",
+        "outputPath": "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

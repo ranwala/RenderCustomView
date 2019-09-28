@@ -1014,11 +1014,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.iOS\\RenderCustomView.iOS.csproj",
+      "projectUniqueName": "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView.iOS\\RenderCustomView.iOS.csproj",
       "projectName": "RenderCustomView.iOS",
-      "projectPath": "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.iOS\\RenderCustomView.iOS.csproj",
+      "projectPath": "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView.iOS\\RenderCustomView.iOS.csproj",
       "packagesPath": "C:\\Users\\chandu\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.iOS\\obj\\",
+      "outputPath": "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1040,8 +1040,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj": {
-              "projectPath": "C:\\Xamarin_Forms\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj"
+            "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj": {
+              "projectPath": "C:\\Forms\\Test_2\\Test\\RenderCustomView\\RenderCustomView\\RenderCustomView.csproj"
             }
           }
         }
